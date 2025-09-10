@@ -1,5 +1,7 @@
 # 📊 Stock Dashboard
 
+![Stock Dashboard Screenshot](screenshot.png)
+
 A simple and interactive **Stock Market Dashboard** built with **Python, Streamlit, Matplotlib, and Yahoo Finance API**.  
 It allows users to fetch and visualize stock data from **Borsa İstanbul (BIST)**, NASDAQ, or global markets in just a few clicks.  
 
